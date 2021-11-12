@@ -1,0 +1,25 @@
+{
+  "name": "estadisticas-deportivas",
+  "version": "1.0.0",
+  "description": "TP estadisticas deporticas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelenRomero/estadisticas-deportivas.git"
+  },
+  "keywords": [
+    "JS",
+    "TP2",
+    "estadisticas"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BelenRomero/estadisticas-deportivas/issues"
+  },
+  "homepage": "https://github.com/BelenRomero/estadisticas-deportivas#readme"
+}
